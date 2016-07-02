@@ -1,0 +1,10 @@
+c:\users\iman\documents\visual studio 2010\Projects\Astar\Astar\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\iman\documents\visual studio 2010\Projects\Astar\Astar\bin\Debug\Astar.exe
+c:\users\iman\documents\visual studio 2010\Projects\Astar\Astar\bin\Debug\Astar.pdb
+c:\users\iman\documents\visual studio 2010\Projects\Astar\Astar\obj\x86\Debug\Astar.exe
+c:\users\iman\documents\visual studio 2010\Projects\Astar\Astar\obj\x86\Debug\Astar.pdb
+C:\Users\iman\Documents\Visual Studio 2010\Projects\AstarVisual\Astar\Astar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iman\Documents\Visual Studio 2010\Projects\AstarVisual\Astar\Astar\obj\x86\Debug\Astar.exe
+C:\Users\iman\Documents\Visual Studio 2010\Projects\AstarVisual\Astar\Astar\bin\Debug\Astar.exe
+C:\Users\iman\Documents\Visual Studio 2010\Projects\AstarVisual\Astar\Astar\bin\Debug\Astar.pdb
+C:\Users\iman\Documents\Visual Studio 2010\Projects\AstarVisual\Astar\Astar\obj\x86\Debug\Astar.pdb

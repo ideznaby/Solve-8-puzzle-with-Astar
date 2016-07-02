@@ -1,0 +1,11 @@
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\bin\Release\AstarVisual.exe
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\bin\Release\AstarVisual.pdb
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\bin\Release\Astar.exe
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\bin\Release\Astar.pdb
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\obj\x86\Release\AstarVisual.Form1.resources
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\obj\x86\Release\AstarVisual.Properties.Resources.resources
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\obj\x86\Release\AstarVisual.exe
+C:\Users\iman\documents\visual studio 2010\Projects\AstarVisual\AstarVisual\obj\x86\Release\AstarVisual.pdb
