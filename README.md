@@ -35,4 +35,5 @@ Here is some screenshots of the program. Click to see the actual size :
 ![ScreenShot](/AstarVisual/screenshots/solving.JPG)
 ![ScreenShot](/AstarVisual/screenshots/solving.JPG)
 
-And it's a video that shows how the program can be used. If you can't see it download it here.
+And it's a video that shows how the program can be used:
+https://www.youtube.com/watch?v=eZWOQNPL5L4
