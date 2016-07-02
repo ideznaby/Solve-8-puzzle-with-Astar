@@ -32,7 +32,7 @@ Astar : this is where all of the computations done actually its the class that i
 Using the program is very easy. You only set the first state and goal with drag and drop. Drag the tiles and drop them in the place you want them, "-" represents the empty cell. Then click solve. 
 After program solves the problem it will show you the best solution.
 Here is some screenshots of the program. Click to see the actual size :
-![ScreenShot](https://raw.github.com/ideznaby/Solve-8-puzzle-with-Astar/tree/master/AstarVisual/screenshots/solved.JPG)
-![ScreenShot](https://raw.github.com/ideznaby/Solve-8-puzzle-with-Astar/blob/master/AstarVisual/screenshots/solving.JPG)
+![ScreenShot](https://github.com/ideznaby/Solve-8-puzzle-with-Astar/blob/master/AstarVisual/screenshots/solving.JPG)
+![ScreenShot](https://github.com/ideznaby/Solve-8-puzzle-with-Astar/blob/master/AstarVisual/screenshots/solving.JPG)
 
 And it's a video that shows how the program can be used. If you can't see it download it here.
